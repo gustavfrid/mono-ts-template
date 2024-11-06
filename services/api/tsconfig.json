@@ -1,4 +1,5 @@
 {
+  "compilerOptions": { "plugins": [{ "name": "next" }] },
   "extends": "@codecompose/typescript-config/service.json",
   "references": [
     {
