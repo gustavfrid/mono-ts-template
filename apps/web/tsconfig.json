@@ -1,4 +1,5 @@
 {
+  "compilerOptions": { "plugins": [{ "name": "next" }] },
   "extends": "@codecompose/typescript-config/nextjs.json",
   "include": ["src", ".next/types/**/*.ts"],
   "references": [
